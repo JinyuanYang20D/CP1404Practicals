@@ -1,5 +1,5 @@
 def main():
-    # Count the occurrences of words
+    """Count the occurrences of words"""
     words = text.split()
     word_counts = {}
     for word in words:
