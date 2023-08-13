@@ -3,6 +3,7 @@ Word Occurrences
 Estimate: 20 minutes
 Actual:   27 minutes
 """
+
 def main():
     """Count the occurrences of words"""
     words = text.split()
